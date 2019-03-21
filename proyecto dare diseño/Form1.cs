@@ -35,6 +35,7 @@ namespace proyecto_dare_diseño
                 MessageBox.Show("favor de ingresar usuario o contraseña");
             else
             {
+                //cambiar commando validación usuarios
                 MySqlConnection x = new MySqlConnection();
                 x = x.ObtenerConexion();
                 MySqlCommand codigo = new MySqlCommand();
