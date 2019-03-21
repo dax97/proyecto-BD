@@ -14,7 +14,7 @@ namespace proyecto_dare_diseño
 
         public static MySqlConnection ObtenerConexion(this MySqlConnection conector)
         {
-            MySqlConnection Conectar = new MySqlConnection("server=127.0.0.1; database = conexión prueba 1;Uid=root; pwd=root;SslMode = none;");
+            MySqlConnection Conectar = new MySqlConnection("server=127.0.0.1; database = inventarioadmn;Uid=root; pwd=root;SslMode = none;");
             Conectar.Open();
             return Conectar;
         }

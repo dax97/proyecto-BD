@@ -26,3 +26,31 @@ C:\Users\dax97\source\repos\proyecto dare diseño\proyecto dare diseño\bin\Debu
 C:\Users\dax97\source\repos\proyecto dare diseño\proyecto dare diseño\bin\Debug\itextsharp.xml
 C:\Users\dax97\source\repos\proyecto dare diseño\proyecto dare diseño\bin\Debug\Noogen.Validation.dll
 C:\Users\dax97\source\repos\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.NueUsuario.resources
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\proyecto dare diseño.exe.config
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\proyecto dare diseño.exe
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\proyecto dare diseño.pdb
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Common.Logging.Core.dll
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Common.Logging.dll
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\itextsharp.dll
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Noogen.Validation.dll
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Google.Protobuf.dll
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Common.Logging.pdb
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Common.Logging.xml
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\Common.Logging.Core.xml
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\itextsharp.xml
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\bin\Debug\MySql.Data.xml
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.csprojAssemblyReference.cache
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.almacen_Dare.resources
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.alta.resources
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.Form1.resources
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.NueUsuario.resources
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.Properties.Resources.resources
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.csproj.GenerateResource.cache
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.csproj.CopyComplete
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.exe
+C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.pdb
