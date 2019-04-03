@@ -15,23 +15,23 @@ namespace proyecto_dare_diseño
 {
     class ProductoFUN
     {
-
+        /*private MySqlConnection conexion = new MySqlConnection();*/
         public static List<Producto> consulta(string Modelo, string Marca)
         {
             MySqlConnection w = new MySqlConnection();
             w = w.ObtenerConexion();
             List<Producto> Tabla = new List<Producto>();
-            MySqlCommand buscar = new MySqlCommand(string.Format("select  *from almacen1 where modelo like '" + Modelo + "' or marca like '" + Marca + "' "), BDGeneral.ObtenerConexion(w));
+            MySqlCommand buscar = new MySqlCommand(string.Format("select * from producto where modelo like '" + Modelo + "' or marca like '" + Marca + "' "), BDGeneral.ObtenerConexion(w));
             MySqlDataReader Lector = buscar.ExecuteReader();
             while (Lector.Read())
             {
                 Producto producto = new Producto();
-                producto.modelo = Lector.GetString(0);
-                producto.marca = Lector.GetString(1);
-                producto.descripcion = Lector.GetString(2);
-                producto.existencia = Lector.GetInt32(3);
-                producto.precioIVA = Lector.GetFloat(4);
-                producto.precioUnitario = Lector.GetFloat(5);
+                producto.idproducto = Lector.GetInt32(0);
+                producto.modelo = Lector.GetString(1);
+                producto.marca = Lector.GetString(2);
+                producto.existenciainicial = Lector.GetInt32(3);
+                producto.existenciaactual = Lector.GetInt32(4);
+                producto.preciounitario = Lector.GetDouble(5);
                 Tabla.Add(producto);
             }            
                  
@@ -66,7 +66,7 @@ namespace proyecto_dare_diseño
             return retorno;
         }
 
-        public static int Alta(Producto producto)
+        /*public static int Alta(Producto producto)
         {
             MySqlConnection x = new MySqlConnection();
             x = x.ObtenerConexion();
@@ -75,7 +75,7 @@ namespace proyecto_dare_diseño
             producto.modelo, producto.marca, producto.descripcion, producto.existencia, producto.precioIVA, producto.precioUnitario), BDGeneral.ObtenerConexion(x));
             retorno = insertar.ExecuteNonQuery();
             return retorno;
-        }
+        }*/
 
         public static int baja (string modelo, string marca)
         {

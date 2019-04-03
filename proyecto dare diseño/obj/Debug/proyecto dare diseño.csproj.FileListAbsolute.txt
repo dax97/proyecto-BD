@@ -54,3 +54,32 @@ C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visu
 C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.csproj.CopyComplete
 C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.exe
 C:\Users\Brenda\Desktop\8 semestre\administracion de base de datos\proyecto visual\proyecto-BD\proyecto dare diseño\obj\Debug\proyecto dare diseño.pdb
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\proyecto dare diseño.exe.config
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\proyecto dare diseño.exe
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\proyecto dare diseño.pdb
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Common.Logging.Core.dll
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Common.Logging.dll
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\itextsharp.dll
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\itextsharp.pdfa.dll
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Noogen.Validation.dll
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Google.Protobuf.dll
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Common.Logging.pdb
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Common.Logging.xml
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Common.Logging.Core.pdb
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\Common.Logging.Core.xml
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\itextsharp.xml
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\bin\Debug\MySql.Data.xml
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto dare diseño.csprojAssemblyReference.cache
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.almacen_Dare.resources
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.alta.resources
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.Form1.resources
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.NueUsuario.resources
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.Properties.Resources.resources
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto dare diseño.csproj.GenerateResource.cache
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto dare diseño.csproj.CoreCompileInputs.cache
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto dare diseño.csproj.CopyComplete
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto dare diseño.exe
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto dare diseño.pdb
+C:\Users\dax97\Documents\upiicsa\Unity group\proyecto dare\proyecto dare diseño\proyecto dare diseño\obj\Debug\proyecto_dare_diseño.mainmenu.resources

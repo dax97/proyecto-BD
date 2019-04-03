@@ -38,11 +38,15 @@ namespace proyecto_dare_diseño
 
         private void button1_Click(object sender, EventArgs e)
         {
-           conexion.ConnectionString= "server = " + txt_host.Text + "; database =" + txt_bd.Text + "; uid = " + txt_user.Text + "; pwd = " + txt_pwd.Text + "; SslMode = none";
+           conexion.ConnectionString= "server = 192.168.1.77; database = inventarioadmn; uid = " + txt_user.Text + "; pwd = " + txt_pwd.Text + "; SslMode = none";
             try
             {
                 conexion.Open();
                 MessageBox.Show("conexion exitosa");
+                mainmenu ad = new mainmenu();
+                ad.Show();
+                this.Hide();
+
             }
             catch(Exception ex)
             {
@@ -50,20 +54,6 @@ namespace proyecto_dare_diseño
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                if (conexion.State == System.Data.ConnectionState.Open)
-                {
-                    conexion.Close();
-                    MessageBox.Show("desconectado");
-                }
-            }
-            catch(Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-        }
+
     }
 } 

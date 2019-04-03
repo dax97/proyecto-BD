@@ -12,14 +12,14 @@ namespace proyecto_dare_diseño
 {
     public partial class alta : Form
     {
-        public alta()
+       public alta()
         {
             InitializeComponent();
         }
 
         private void aceptar_Click(object sender, EventArgs e)
         {
-            if (Modelo2.Text == "" || Marca2.Text == "" || Descripcion2.Text == "" || Existencia2.Text == "" || PrecioIVA2.Text == "" || PrecioUni2.Text == "")
+            /*if (Modelo2.Text == "" || Marca2.Text == "" || Descripcion2.Text == "" || Existencia2.Text == "" || PrecioIVA2.Text == "" || PrecioUni2.Text == "")
                     MessageBox.Show("favor de llenar todos los campos");
             else { 
                 try
@@ -46,7 +46,7 @@ namespace proyecto_dare_diseño
                 {
                     MessageBox.Show("producto existente");
                 }
-            }
+            }*/
         }
 
         private void Existencia2_KeyPress(object sender, KeyPressEventArgs e)
@@ -71,7 +71,7 @@ namespace proyecto_dare_diseño
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(PrecioUni2.Text == "")
+            /*if(PrecioUni2.Text == "")
             {
                 MessageBox.Show("favor de introducir una cantidad a calcular en precio unitario");
             }
@@ -81,7 +81,7 @@ namespace proyecto_dare_diseño
                 x = float.Parse(PrecioUni2.Text);
                 x = x * 1.16f;
                 PrecioIVA2.Text = x.ToString();
-            }
+            }*/
         }
 
         private void Marca2_KeyPress(object sender, KeyPressEventArgs e)

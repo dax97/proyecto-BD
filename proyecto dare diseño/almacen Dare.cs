@@ -42,74 +42,10 @@ namespace proyecto_dare_diseño
             }
         }
 
-        private void entrada_Click(object sender, EventArgs e)
-        {
-            if (panel.SelectedRows.Count == 1)
-            {
-                if (unidadesEntrada.Text == "" || int.Parse(unidadesEntrada.Text) < 0)
-                {
-                    MessageBox.Show("favor de introducir una cantidad valida");
-                }
-                else
-                {
-                    int x = 0;
-                    x = Convert.ToInt32(panel.CurrentRow.Cells[3].Value);
-                    string y = "";
-                    y = Convert.ToString(panel.CurrentRow.Cells[0].Value);
-                    int w = int.Parse(unidadesEntrada.Text);
-                    ProductoFUN.Entrada(x, y, w);
-                    panel.DataSource = ProductoFUN.consulta(searchdata.Text, searchdata.Text);
-                }
-            }
-            else
-            {
-                MessageBox.Show("seleccione linea");
-            }
-        }
-
-        private void unidadesEntrada_KeyPress_1(object sender, KeyPressEventArgs e)
-        {
-            ProductoFUN.solonumeros(e);
-        }
-
         private void alta_Click(object sender, EventArgs e)
         {
             alta alta = new alta();
             alta.ShowDialog();
-        }
-
-        private void salida_Click(object sender, EventArgs e)
-        {
-            if (panel.SelectedRows.Count == 1)
-            {
-                if (unidadesSalida.Text == "" || int.Parse(unidadesSalida.Text) < 0)
-                    MessageBox.Show("favor de introducir una cantidad valida");
-                else
-                {
-                    int x = 0;
-                    x = Convert.ToInt32(panel.CurrentRow.Cells[3].Value);
-                    string y = "";
-                    y = Convert.ToString(panel.CurrentRow.Cells[0].Value);
-                    int w = int.Parse(unidadesSalida.Text);
-                    if (x >= w)
-                    {
-                        ProductoFUN.salida(x, y, w);
-                        panel.DataSource = ProductoFUN.consulta(searchdata.Text, searchdata.Text);
-                    }
-                    else
-                    {
-                        MessageBox.Show("No hay existencia suficiente para realizar esa salida");
-                    }
-                }
-            }
-            else
-            {
-                MessageBox.Show("seleccione linea");
-            }
-        }
-        private void unidadesSalida_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            ProductoFUN.solonumeros(e);
         }
 
         private void baja_Click(object sender, EventArgs e)
@@ -251,6 +187,7 @@ namespace proyecto_dare_diseño
 
         private void almacen_Dare_FormClosed(object sender, FormClosedEventArgs e)
         {
+            this.Close();
         }
         private void panel_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {

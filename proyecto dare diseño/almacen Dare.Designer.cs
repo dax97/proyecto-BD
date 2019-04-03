@@ -32,13 +32,9 @@
             this.searchdata = new System.Windows.Forms.TextBox();
             this.buscar = new System.Windows.Forms.Button();
             this.generarPDF = new System.Windows.Forms.Button();
-            this.entrada = new System.Windows.Forms.Button();
-            this.salida = new System.Windows.Forms.Button();
             this.alta = new System.Windows.Forms.Button();
             this.baja = new System.Windows.Forms.Button();
             this.panel = new System.Windows.Forms.DataGridView();
-            this.unidadesEntrada = new System.Windows.Forms.TextBox();
-            this.unidadesSalida = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.panel)).BeginInit();
             this.SuspendLayout();
             // 
@@ -70,26 +66,6 @@
             this.generarPDF.UseVisualStyleBackColor = true;
             this.generarPDF.Click += new System.EventHandler(this.generarPDF_Click);
             // 
-            // entrada
-            // 
-            this.entrada.Location = new System.Drawing.Point(39, 490);
-            this.entrada.Name = "entrada";
-            this.entrada.Size = new System.Drawing.Size(75, 23);
-            this.entrada.TabIndex = 4;
-            this.entrada.Text = "entrada";
-            this.entrada.UseVisualStyleBackColor = true;
-            this.entrada.Click += new System.EventHandler(this.entrada_Click);
-            // 
-            // salida
-            // 
-            this.salida.Location = new System.Drawing.Point(200, 490);
-            this.salida.Name = "salida";
-            this.salida.Size = new System.Drawing.Size(75, 23);
-            this.salida.TabIndex = 5;
-            this.salida.Text = "salida";
-            this.salida.UseVisualStyleBackColor = true;
-            this.salida.Click += new System.EventHandler(this.salida_Click);
-            // 
             // alta
             // 
             this.alta.Location = new System.Drawing.Point(361, 490);
@@ -120,24 +96,6 @@
             this.panel.TabIndex = 8;
             this.panel.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.panel_CellContentClick);
             // 
-            // unidadesEntrada
-            // 
-            this.unidadesEntrada.AcceptsReturn = true;
-            this.unidadesEntrada.Location = new System.Drawing.Point(28, 452);
-            this.unidadesEntrada.Name = "unidadesEntrada";
-            this.unidadesEntrada.Size = new System.Drawing.Size(100, 22);
-            this.unidadesEntrada.TabIndex = 9;
-            this.unidadesEntrada.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.unidadesEntrada_KeyPress_1);
-            // 
-            // unidadesSalida
-            // 
-            this.unidadesSalida.BackColor = System.Drawing.Color.White;
-            this.unidadesSalida.Location = new System.Drawing.Point(200, 452);
-            this.unidadesSalida.Name = "unidadesSalida";
-            this.unidadesSalida.Size = new System.Drawing.Size(100, 22);
-            this.unidadesSalida.TabIndex = 10;
-            this.unidadesSalida.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.unidadesSalida_KeyPress);
-            // 
             // almacen_Dare
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -145,13 +103,9 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(855, 545);
-            this.Controls.Add(this.unidadesSalida);
-            this.Controls.Add(this.unidadesEntrada);
             this.Controls.Add(this.panel);
             this.Controls.Add(this.baja);
             this.Controls.Add(this.alta);
-            this.Controls.Add(this.salida);
-            this.Controls.Add(this.entrada);
             this.Controls.Add(this.generarPDF);
             this.Controls.Add(this.buscar);
             this.Controls.Add(this.searchdata);
@@ -170,12 +124,8 @@
         private System.Windows.Forms.TextBox searchdata;
         private System.Windows.Forms.Button buscar;
         private System.Windows.Forms.Button generarPDF;
-        private System.Windows.Forms.Button entrada;
-        private System.Windows.Forms.Button salida;
         private System.Windows.Forms.Button alta;
         private System.Windows.Forms.Button baja;
         private System.Windows.Forms.DataGridView panel;
-        private System.Windows.Forms.TextBox unidadesEntrada;
-        private System.Windows.Forms.TextBox unidadesSalida;
     }
 }
